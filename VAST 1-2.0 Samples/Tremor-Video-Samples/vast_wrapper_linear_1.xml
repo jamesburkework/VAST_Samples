@@ -3,7 +3,7 @@
     <Wrapper>
       <AdSystem>Acudeo Compatible</AdSystem>
       <VASTAdTagURI>
-      http://gist.githubusercontent.com/jamesburkework/ee8b22a9dc2a5093b8db1f3963dd4626/raw/6861d00934cea7585a582e65c127ebbc9cf238ab/xml_test
+      https://gist.githubusercontent.com/jamesburkework/ee8b22a9dc2a5093b8db1f3963dd4626/raw/aef6c94563f8e2605ca2f53c9f9dd6d5de633685/xml_test
       </VASTAdTagURI>
       <Error>http://example.com/wrapper/error</Error>
       <Impression>http://example.com/trackingurl/wrapper/impression</Impression>
